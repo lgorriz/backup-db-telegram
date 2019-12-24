@@ -1,4 +1,4 @@
-# Realizar un backup en Centos y enviar notificación a Telegram
+# Realizar un backup de BD Mysql en Centos y enviar notificación a Telegram
 
 Se deben setear las configuraciones de la BD y del ID de telegram
 
